@@ -3,3 +3,4 @@ def square_array(array)
   puts squared**2
 end
 end
+
